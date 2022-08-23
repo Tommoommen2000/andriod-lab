@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = E:/
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Tommoommen2000/Android-Lab.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = normal
+	geometry = 893x435+26+26 175 196

@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Tommoommen2000/Android-Lab-2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = github
+	merge = refs/heads/master
+[remote "github"]
+	url = https://github.com/Tommoommen2000/lifecycle.git
+	fetch = +refs/heads/*:refs/remotes/github/*
